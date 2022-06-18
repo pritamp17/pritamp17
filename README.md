@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Pawar</h1>
-<h3 align="center">A passionate Software developer from India, ready to take on any kind of project</h3>
+<h3 align="center">A passionate Software developer from India, ready to take on any kind of projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamp17&label=Profile%20views&color=0e75b6&style=flat" alt="pritamp17" /> </p>
 
@@ -7,20 +7,23 @@
 
 - 🌱 I’m currently learning about **Web3 and dApps**
 
-- Hey!! want to collabarate making challenging stuff ? Me to 😁, in case you collabarate connect with me **pritampawar526@gmail.com**
+- Hey!! do you Love working on challenging stuff ? Me to 😁, in case you want to collabarate with me **pritampawar526@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pritam-pawar-070788197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-pawar-070788197/" height="30" width="40" /></a>
 <a href="https://instagram.com/pritam_17__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pritam_17__/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pritam_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pritam_17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/the_stealth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/the_stealth" height="30" width="40" /></a>
-<a href="codeforces.com/profile/pritamp_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pritamp_17" height="30" width="40" /></a>
+ <a href="https://discord.gg/THE_STEALTH#8601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="THE_STEALTH#8601" height="30" width="40" /></a>
+ <br/>
+ <h3 align="left">My Coding Profiles:</h3>
 <a href="https://www.leetcode.com/pritampawar625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pritampawar625/" height="30" width="40" /></a>
  <a href="https://www.codingninjas.com/codestudio/profile/7226a019-de62-476a-8f9a-1274db6025c2" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="CodindNinjas" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/pritampawar625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pritampawar625/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/the_stealth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/the_stealth" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pritam_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pritam_17" height="30" width="40" /></a>
+ <a href="https://www.codeforces.com/profile/pritamp_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pritamp_17" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pritamp17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pritamp17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pritampawar625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pritampawar625/" height="30" width="40" /></a>
-<a href="https://discord.gg/THE_STEALTH#8601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="THE_STEALTH#8601" height="30" width="40" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
