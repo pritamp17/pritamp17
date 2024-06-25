@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamp17" alt="pritamp17" /></a> </p>
 
-<!-- - 🌱 I’m currently learning about **Web3 and dApps** -->
-- Hey!! do you Love working on challenging stuff ? Me to 😁, in case you want to collabarate with me **pritampawar526@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
