@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Pawar</h1>
-<h3 align="center">A passionate Software developer from India, ready to take on any kind of projects.</h3>
+<h3 align="center">A passionate Software developer, ready to take on any kind of projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamp17&label=Profile%20views&color=0e75b6&style=flat" alt="pritamp17" /> </p>
 
