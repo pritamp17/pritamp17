@@ -1,34 +1,196 @@
-<h1 align="center">Hi 👋, I'm Pritam Pawar</h1>
-<h3 align="center"></h3>
+<!-- =========================================================
+     🦇  PRITAM PAWAR — GOTHAM'S FULL-STACK VIGILANTE  🦇
+     ========================================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamp17&label=Profile%20views&color=0e75b6&style=flat" alt="pritamp17" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamp17" alt="pritamp17" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:FFD700&height=260&section=header&text=PRITAM%20PAWAR&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=38" alt="banner" />
 
+<h3>🦇 &nbsp; <em>Gotham's Full-Stack Vigilante</em> &nbsp; 🦇</h3>
+<h4><em>Founder · Builder in the Shadows · I ship products, not pitches.</em></h4>
 
+<a href="https://pritampawar.com">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%27m+Vengeance.+I%27m+the+Night.;I%27m+a+Full-Stack+Engineer.;Founder+%40+Alkemii+Labs;Ex-Sprinklr+%C2%B7+NIT+Allahabad&font=Fira%20Code&center=true&width=620&height=50&color=FFD700&vCenter=true&pause=1000&size=22" alt="typing" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pritam-pawar-070788197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-pawar-070788197/" height="30" width="40" /></a>
-<a href="https://instagram.com/pritam_17__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pritam_17__/" height="30" width="40" /></a>
- <a href="https://discord.gg/THE_STEALTH#8601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="THE_STEALTH#8601" height="30" width="40" /></a>
- <br/>
- <h3 align="left">My Coding Profiles:</h3>
-<a href="https://www.leetcode.com/pritampawar625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pritampawar625/" height="30" width="40" /></a>
- <a href="https://www.codingninjas.com/codestudio/profile/7226a019-de62-476a-8f9a-1274db6025c2" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="CodindNinjas" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/pritampawar625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pritampawar625/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/the_stealth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/the_stealth" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pritam_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pritam_17" height="30" width="40" /></a>
- <a href="https://www.codeforces.com/profile/pritamp_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pritamp_17" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pritamp17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pritamp17" height="30" width="40" /></a>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=pritamp17&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&labelColor=0D1117" alt="views" />
+<img src="https://img.shields.io/badge/Base-Gotham%2C%20India-FFD700?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=FFD700" alt="location" />
+<img src="https://img.shields.io/badge/Status-On%20The%20Hunt-E50914?style=for-the-badge&labelColor=0D1117" alt="status" />
 
+</div>
 
-<h3 align="left">Languages and Tools i used:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamp17&show_icons=true&locale=en&layout=compact" alt="pritamp17" /></p>
+<!-- ========== DOSSIER ========== -->
+<h2 align="center"><code>&gt; THE_DOSSIER //</code></h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&locale=en" alt="pritamp17" /></p>
+Full-stack engineer turned founder. I build products **end-to-end** — from system design to App Store.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamp17&" alt="pritamp17" /></p>
+- 🎓 &nbsp; **NIT Allahabad** &nbsp;·&nbsp; B.Tech
+- 💼 &nbsp; **2 years at Sprinklr** &nbsp;·&nbsp; NYSE: CXM
+- 🚀 &nbsp; **Full-time founder** &nbsp;·&nbsp; shipping, not pitching
+- ✉️ &nbsp; **pritampawar526@gmail.com**
+
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
+
+<!-- ========== MISSIONS ========== -->
+<h2 align="center"><code>&gt; THE_MISSIONS //</code></h2>
+
+### 🎮 &nbsp; TournaHub &nbsp;·&nbsp; <sub><sup>ESPORTS TOURNAMENT PLATFORM</sup></sub>
+
+> Built **entirely solo**. React Native iOS + Android, Next.js web, Spring Boot backend, AWS infra.
+> Scaled to **1,000+ users** and **50+ tournament organizers**.
+> _Shut down due to India's online gaming regulations — not failure. Regulatory kill._
+
+### 🎬 &nbsp; Alkemii Labs &nbsp;·&nbsp; <sub><sup>AI VIDEO EDITOR WITH CREATOR STYLE TRANSFER</sup></sub>
+
+> **WebGPU** real-time preview engine · **WebCodecs** in-browser MP4 export
+> **Kafka**-orchestrated video analysis pipeline + **MongoDB Atlas Vector Search**
+> Node-based visual canvas (React Flow) for composable AI editing workflows
+> **RAG**-powered chat that references any moment in a video
+
+### 📱 &nbsp; Finite &nbsp;·&nbsp; <sub><sup>STOIC PRODUCTIVITY APP</sup></sub>
+
+> React Native Expo + TypeScript
+> Real-time mortality awareness · goal tracking · screen-time intelligence
+> Supabase auth · RevenueCat subscriptions · native Kotlin modules for Android
+
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
+
+<!-- ========== ARSENAL ========== -->
+<h2 align="center"><code>&gt; THE_ARSENAL //</code></h2>
+
+<div align="center">
+
+**`LANGUAGES`**
+
+![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-0D1117?style=for-the-badge&logo=kotlin&logoColor=A97BFF)
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+**`BACKEND`**
+
+![Spring Boot](https://img.shields.io/badge/-SPRING%20BOOT-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![FastAPI](https://img.shields.io/badge/-FASTAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=flask&logoColor=FFD700)
+![Kafka](https://img.shields.io/badge/-KAFKA-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFD700)
+![Elasticsearch](https://img.shields.io/badge/-ELASTICSEARCH-0D1117?style=for-the-badge&logo=elasticsearch&logoColor=FEC514)
+
+**`FRONTEND`**
+
+![Next.js](https://img.shields.io/badge/-NEXT.JS-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFD700)
+![React](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-REACT%20NATIVE-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-EXPO-0D1117?style=for-the-badge&logo=expo&logoColor=FFD700)
+
+**`DATA`**
+
+![MongoDB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/-REDIS-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Vector Search](https://img.shields.io/badge/-VECTOR%20SEARCH-0D1117?style=for-the-badge&logo=databricks&logoColor=FFD700)
+
+**`INFRA`**
+
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Google Cloud](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Supabase](https://img.shields.io/badge/-SUPABASE-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+**`AI / ML`**
+
+![Gemini](https://img.shields.io/badge/-GEMINI%20API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=FFD700)
+![RAG](https://img.shields.io/badge/-RAG%20PIPELINES-0D1117?style=for-the-badge&logo=openai&logoColor=FFD700)
+![WebGPU](https://img.shields.io/badge/-WEBGPU-0D1117?style=for-the-badge&logo=webgpu&logoColor=FFD700)
+![WebCodecs](https://img.shields.io/badge/-WEBCODECS-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=FFD700)
+
+</div>
+
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
+
+<!-- ========== RECORD ========== -->
+<h2 align="center"><code>&gt; THE_RECORD //</code></h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h1>3,600+</h1>
+      <sub>GitHub contributions in the last 14 months</sub>
+    </td>
+    <td align="center" width="50%">
+      <h1>3 × 5</h1>
+      <sub>Products shipped across iOS, Android, Web, Play Store, App Store</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h1>1,000+</h1>
+      <sub>Real users acquired as a solo founder</sub>
+    </td>
+    <td align="center" width="50%">
+      <h1>6 weeks</h1>
+      <sub>Full AI video platform (FE + BE + ML), shipped with 3 interns</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
+
+<!-- ========== CRIME STATS ========== -->
+<h2 align="center"><code>&gt; THE_CRIME_STATS //</code></h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9&border_color=30363D" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamp17&layout=compact&hide_border=false&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&border_color=30363D" alt="top-langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamp17&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=C9D1D9&dates=C9D1D9" alt="streak" />
+
+</div>
+
+<p align="center">🦇 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🦇</p>
+
+<!-- ========== BAT SIGNAL ========== -->
+<h2 align="center"><code>&gt; THE_BAT_SIGNAL //</code></h2>
+
+<div align="center">
+
+<a href="https://pritampawar.com"><img src="https://img.shields.io/badge/-pritampawar.com-FFD700?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" alt="website" /></a>
+<a href="https://alkemiilabs.com"><img src="https://img.shields.io/badge/-alkemiilabs.com-FFD700?style=for-the-badge&logo=openai&logoColor=0D1117&labelColor=0D1117" alt="alkemii" /></a>
+<a href="https://tournahub.net"><img src="https://img.shields.io/badge/-tournahub.net-FFD700?style=for-the-badge&logo=controller&logoColor=0D1117&labelColor=0D1117" alt="tournahub" /></a>
+
+<br/>
+
+<a href="https://linkedin.com/in/pritam-pawar-070788197/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" /></a>
+<a href="https://instagram.com/pritam_17__/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="instagram" /></a>
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="discord" /></a>
+<a href="mailto:pritampawar526@gmail.com"><img src="https://img.shields.io/badge/-Email-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" /></a>
+
+</div>
+
+<br/>
+
+<!-- ========== CLOSING ========== -->
+<div align="center">
+
+> _"It's not who I am underneath,_
+> _but what I **do** that defines me."_
+> — **Batman**
+
+<br/>
+
+### 🦇 &nbsp; _I don't pitch ideas. I ship products._ &nbsp; 🦇
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1A1A1A,100:0D1117&height=140&section=footer" alt="footer" />
