@@ -16,7 +16,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=pritamp17&label=PROFILE+VIEWS&color=CC0000&style=for-the-badge&labelColor=0D0000" alt="views" />
-<img src="https://img.shields.io/badge/Base-Gotham%2C%20India-CC0000?style=for-the-badge&labelColor=0D0000&logo=googlemaps&logoColor=CC0000" alt="location" />
+<img src="https://img.shields.io/badge/Base-Pune%2C%20India-CC0000?style=for-the-badge&labelColor=0D0000&logo=googlemaps&logoColor=CC0000" alt="location" />
 <img src="https://img.shields.io/badge/Status-On%20The%20Hunt-E50914?style=for-the-badge&labelColor=0D0000" alt="status" />
 
 <br/><br/>
