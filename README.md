@@ -20,8 +20,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0B0D&title_color=FF8C1E&icon_color=FF8C1E&text_color=C6BDB0&ring_color=FF8C1E" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamp17&layout=compact&langs_count=6&hide_border=true&bg_color=0B0B0D&title_color=FF8C1E&text_color=C6BDB0" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&icon_color=FF8C1E&text_color=C6BDB0&ring_color=FF8C1E" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamp17&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&text_color=C6BDB0" alt="Top languages" />
 
 <br/><br/>
 
