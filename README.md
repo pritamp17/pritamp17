@@ -20,12 +20,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&icon_color=FF8C1E&text_color=C6BDB0&ring_color=FF8C1E" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamp17&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&text_color=C6BDB0" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=pritamp17&hide_border=true&background=0B0B0D&stroke=241E17&ring=FF8C1E&fire=FF8C1E&currStreakNum=F4EFE7&sideNums=F4EFE7&currStreakLabel=FF8C1E&sideLabels=C6BDB0&dates=6E675E" alt="Contribution streak" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=pritamp17&hide_border=true&background=0B0B0D&stroke=241E17&ring=FF8C1E&fire=FF8C1E&currStreakNum=F4EFE7&sideNums=F4EFE7&currStreakLabel=FF8C1E&sideLabels=C6BDB0&dates=6E675E" alt="Contribution streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pritamp17&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&icon_color=FF8C1E&text_color=C6BDB0&ring_color=FF8C1E" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamp17&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=0B0B0D&title_color=FF8C1E&text_color=C6BDB0" alt="Top languages" />
 
 <br/><br/>
 
