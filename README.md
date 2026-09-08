@@ -10,7 +10,7 @@
 
 <br/>
 
-<sub>Full-stack engineer — backend systems, web and mobile.</sub>
+<sub>i code out of curosity</sub>
 
 </div>
 
